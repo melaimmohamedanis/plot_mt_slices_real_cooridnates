@@ -1,0 +1,1 @@
+create grd files(slices) using  rho_file_extractor_negative_deppth_renaiming and then plot them using  code4(sripts) with or without stations and using from 0to2.5(log resistivity) cmap or from 0to3(log resisitivity) camp
